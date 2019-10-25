@@ -1,4 +1,6 @@
 # Tagged
+[ ![Download](https://api.bintray.com/packages/carloscj6/layout/TagCloud/images/download.svg) ](https://bintray.com/carloscj6/layout/TagCloud/_latestVersion)
+
 Simple Tag Layout for displaying tags
 This project is inspred by [TagCloudLinkView](https://github.com/namito/TagCloudLinkView) only that this took some
 steroids and a can of beer. 
@@ -7,7 +9,7 @@ steroids and a can of beer.
 ## Download
 Fancy? get it here
 ```gradle 
-
+      implementation 'com.revosleap.layout:tagcloud:1.0.0'
 ```
 ## Usage
 Quite easy
