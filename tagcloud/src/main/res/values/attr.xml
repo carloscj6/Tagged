@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TagCloudLinkView">
+        <attr name="tagTextColor" format="color" />
+        <attr name="tagTextSize" format="dimension" />
+        <attr name="isDeletable" format="boolean" />
+        <attr name="deletableTextColor" format="color" />
+        <attr name="deletableTextSize" format="dimension" />
+        <attr name="tagBackground" format="reference"/>
+        <attr name="deletableBackground" format="reference"/>
+    </declare-styleable>
+
+</resources>
