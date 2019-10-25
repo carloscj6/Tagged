@@ -143,7 +143,7 @@ val tagView= findViewById<TagCloudView>(R.id.tagView)
 
     Copyright (c) 2019 Carlos Anyona
     
-  Find the copy of the license here [Tag Cloud License](/blob/master/LICENSE)
+  Find the copy of the license here [Tag Cloud License](/LICENSE)
   ##
   Happy coding :blue_heart:
  
